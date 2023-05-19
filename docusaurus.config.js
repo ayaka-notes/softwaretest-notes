@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: '你的笔记的名字',
+  title: '软件测试笔记',
+  tagline: '软件测试笔记',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '软件测试笔记',
         logo: {
           alt: 'Ayaka Logo',
           src: 'img/logo-avatar.png',
@@ -74,7 +74,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '课程笔记',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
