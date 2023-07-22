@@ -2,9 +2,6 @@
 name: DeployPage
 
 on:
-  # Run Everyday, but not push.
-    #   schedule:
-    #     - cron: '30 4 * * *'
   workflow_dispatch:
     inputs:
       unconditional-invoking:
