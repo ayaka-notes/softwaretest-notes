@@ -1,4 +1,4 @@
-
+Github ©Ayaka-notes
 # 软件测试笔记
 
 本仓库是：SE-3336 软件测试笔记(2023春)。笔记请前往：https://sofwaretest.ayaka.space/
